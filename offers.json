@@ -1,1 +1,1052 @@
-[]
+[
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "20% savings on reservations",
+    "description": "Aura by Epic Collection",
+    "category": "other",
+    "expiry_date": "2026-10-31",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/10508",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "20% savings on reservations",
+    "description": "Epic Unawatuna",
+    "category": "other",
+    "expiry_date": "2026-10-31",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/10509",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "Up to 25% Savings on Reservations",
+    "description": "Laya Safari Hotel Yala",
+    "category": "other",
+    "expiry_date": "2026-10-31",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/10510",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "15% discount on accommodation on Bed & Breakfast basis",
+    "description": "Solara Beach House Dickwella",
+    "category": "other",
+    "expiry_date": "2026-10-15",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/10575",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "15% discount on accommodation on Bed & Breakfast basis",
+    "description": "Solara Beach House Dickwella",
+    "category": "other",
+    "expiry_date": "2026-10-31",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/10575",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "35% Savings on Reservations",
+    "description": "The South Lake",
+    "category": "other",
+    "expiry_date": "2026-09-30",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/10576",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "25% Savings on Reservations",
+    "description": "Sathmin Villa",
+    "category": "other",
+    "expiry_date": "2026-09-30",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/10577",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "25% Savings on Reservations",
+    "description": "Villa Indrasiriya",
+    "category": "other",
+    "expiry_date": "2026-09-30",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/10578",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "25% Savings on Reservations",
+    "description": "Gedara Villa",
+    "category": "other",
+    "expiry_date": "2026-09-30",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/10579",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "25% Savings on Reservations",
+    "description": "Dream Lodge",
+    "category": "other",
+    "expiry_date": "2026-09-30",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/10580",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "25% Savings on Reservations",
+    "description": "Cottage 42",
+    "category": "other",
+    "expiry_date": "2026-09-30",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/10581",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "35% Savings on Reservations",
+    "description": "The South Beach",
+    "category": "other",
+    "expiry_date": "2026-09-30",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/10582",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "25% Savings on Reservations",
+    "description": "Birds Park",
+    "category": "other",
+    "expiry_date": "2026-09-30",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/10583",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "Exclusive Offer for NDB Credit Card Holders",
+    "description": "Rajarata Hotel",
+    "category": "other",
+    "expiry_date": "2026-10-31",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/10585",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "15% savings on accessories with up to 36 months 0% Installment plans",
+    "description": "Rooter",
+    "category": "other",
+    "expiry_date": "2026-09-20",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/10587",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "15% savings on accessories with up to 36 months 0% Installment plans",
+    "description": "Rooter",
+    "category": "other",
+    "expiry_date": "2026-09-20",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/10587",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "Up to 36 months 0% Installment Plans",
+    "description": "Sun Pledge Holdings",
+    "category": "other",
+    "expiry_date": null,
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/10588",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "40% Savings on Reservations",
+    "description": "Mount Randholee Resort and Spa",
+    "category": "other",
+    "expiry_date": "2026-09-01",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/10590",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "40% Savings on Reservations",
+    "description": "Mount Randholee Resort and Spa",
+    "category": "other",
+    "expiry_date": "2026-09-30",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/10590",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "10% Savings on Credit and Debit cards",
+    "description": "Ellie",
+    "category": "other",
+    "expiry_date": "2026-09-20",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/10592",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "10% Savings on Credit and Debit cards",
+    "description": "Ellie",
+    "category": "other",
+    "expiry_date": "2026-09-18",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/10592",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "10% Savings on Total Bill for NDB visa credit cards",
+    "description": "Keells",
+    "category": "other",
+    "expiry_date": null,
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/29",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "Fuel Surcharge Rebate for PRV , PRVS & PRVS Plus Credit cardholders",
+    "description": "Fuel up with 0% Surcharge",
+    "category": "other",
+    "expiry_date": "2026-12-31",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/77",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "Flat 20% Savings on Any Destination on Any Airlines (On Base Fare) with 0% Instalment plans Up to 36 months",
+    "description": "findmyfare.com",
+    "category": "other",
+    "expiry_date": "2026-09-30",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/247",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "Exclusive Offer for NDB Card Holders",
+    "description": "Sheraton Kosgoda Turtle Beach Resort",
+    "category": "other",
+    "expiry_date": "2026-09-30",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/309",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "Book your next trip on Agoda and Enjoy a complimentary Third night when you stay three nights",
+    "description": "Visa",
+    "category": "other",
+    "expiry_date": "2026-12-31",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/365",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "60 Months 0% Installment Plan Offer",
+    "description": "Special IPP Promotions",
+    "category": "other",
+    "expiry_date": "2026-10-01",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/10589",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "60 Months 0% Installment Plan Offer",
+    "description": "Special IPP Promotions",
+    "category": "other",
+    "expiry_date": "2026-10-31",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/10589",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "Up to 12 Months 0% installment plans on Hospital, Insurance & Auto Mobile Services",
+    "description": "Special IPP Promotions",
+    "category": "other",
+    "expiry_date": "2026-09-30",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/25",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "25 months 0% Installment Plan Offer",
+    "description": "Special IPP Promotions",
+    "category": "other",
+    "expiry_date": "2026-09-10",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/76",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "25 months 0% Installment Plan Offer",
+    "description": "Special IPP Promotions",
+    "category": "other",
+    "expiry_date": "2026-09-17",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/76",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "25 months 0% Installment Plan Offer",
+    "description": "Special IPP Promotions",
+    "category": "other",
+    "expiry_date": "2026-09-24",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/76",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "Explore Malaysia with Visa Offers !",
+    "description": "Visa",
+    "category": "other",
+    "expiry_date": "2028-09-30",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/367",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "Up to 10,000 discounts up to 36 months 0% Installment plans",
+    "description": "Vacation Travels and Holidays",
+    "category": "other",
+    "expiry_date": "2026-11-18",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/10559",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "35% Savings on DBL/FB basis & 30% Savings on TPL/FB basis reservations",
+    "description": "Pelwehera Village Resort - Dambulla",
+    "category": "other",
+    "expiry_date": "2026-10-31",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/58",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "Up to 36 months 0% installment plans",
+    "description": "Raja Jewellers",
+    "category": "other",
+    "expiry_date": "2026-09-30",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/259",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "40% Savings on Accelera Tyres, 30% Savings on Pirelli, Yokohama, Otani Tyres with 0% instalment plans for 12 months",
+    "description": "Toyota Lanka",
+    "category": "other",
+    "expiry_date": "2026-09-30",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/327",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "Unlock Premium Global Experiences with Visa",
+    "description": "Visa Global",
+    "category": "other",
+    "expiry_date": null,
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/379",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "35% Savings on Reservations",
+    "description": "Tropical Life resort and Spa - Dambulla",
+    "category": "other",
+    "expiry_date": "2026-09-30",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/59",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "35% Savings on DBL/FB basis & 30% Savings on TPL/FB basis reservations",
+    "description": "Oak Ray Regency - Kandy",
+    "category": "other",
+    "expiry_date": "2026-10-31",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/60",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "40% Savings on Reservations",
+    "description": "Amaara Forest Hotel",
+    "category": "other",
+    "expiry_date": "2026-10-31",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/339",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "35% Savings on DBL/FB basis & 30% Savings on TPL/FB basis reservations",
+    "description": "Oak Ray Ella Gap - Ella",
+    "category": "other",
+    "expiry_date": "2026-10-31",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/61",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "20% Discount on Room rate for In-patients With 0% Installment plans Upto 12 months (Call & Convert)",
+    "description": "Siddhalepa Ayurveda Hospital",
+    "category": "other",
+    "expiry_date": "2026-12-31",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/108",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "35% Savings on HB & FB Reservations",
+    "description": "Wattura Resorts & Spas",
+    "category": "other",
+    "expiry_date": "2026-12-15",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/413",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "Unlock Premium Global Experiences with Visa",
+    "description": "Visa",
+    "category": "other",
+    "expiry_date": null,
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/422",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "Exclusive Offer Credit and Debit Card Holders– 30% Off Accommodation",
+    "description": "Earl's Regency",
+    "category": "other",
+    "expiry_date": "2026-10-31",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/436",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "35% Savings on Reservations",
+    "description": "TRIO LODGE - HABARANA",
+    "category": "other",
+    "expiry_date": "2026-10-31",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/485",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "Experience Korea in style : Exclusive offers on iconic attractions!",
+    "description": "Visa",
+    "category": "other",
+    "expiry_date": "2026-12-31",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/492",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "Up to 35% Savings on Reservations",
+    "description": "Villa Lagoonscape – Negombo",
+    "category": "other",
+    "expiry_date": "2026-11-30",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/499",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "20% Savings on Credit & 15% Savings on Debit cards",
+    "description": "Mobil",
+    "category": "other",
+    "expiry_date": "2026-09-24",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/10561",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "20% Savings on Credit & 15% Savings on Debit cards",
+    "description": "Mobil",
+    "category": "other",
+    "expiry_date": "2026-09-11",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/10561",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "35% Savings on DBL/FB basis & 30% Savings on TPL/FB basis reservations",
+    "description": "Senani Hotel - Kandy",
+    "category": "other",
+    "expiry_date": "2026-10-31",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/63",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "100% Cashback on PickMe Pass Monthly Subscription",
+    "description": "PickMe Pass",
+    "category": "other",
+    "expiry_date": "2026-12-31",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/324",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "25% Savings on Reservations",
+    "description": "Araliya Green City - Nuwaraeliya",
+    "category": "other",
+    "expiry_date": "2026-10-31",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/338",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "30% Savings on Resrvations",
+    "description": "Habitat Kosgoda",
+    "category": "other",
+    "expiry_date": "2026-10-31",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/346",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "20% Savings on Credit & 15% Savings on Debit Cards",
+    "description": "Hemas Consumer Brands",
+    "category": "other",
+    "expiry_date": null,
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/364",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "Explore Hong Kong with Visa , Exclusive February offers!",
+    "description": "Visa",
+    "category": "other",
+    "expiry_date": "2026-12-31",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/368",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "Up to 12 months 0% Installment Plans (Call  & Convert)",
+    "description": "G Q Mobiles Pvt Ltd",
+    "category": "other",
+    "expiry_date": "2026-09-30",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/394",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "20% Savings on BB,HB & FB Reservations",
+    "description": "Joes Resort - Unawatuna",
+    "category": "other",
+    "expiry_date": "2026-12-31",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/400",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "35% Savings on DBL/FB basis & 30% Savings on TPL/FB basis reservations",
+    "description": "Liyya Water Villa – Dambulla",
+    "category": "other",
+    "expiry_date": "2026-10-31",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/469",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "Up to 35% Savings on Reservations",
+    "description": "Wild Trail Yala by Mili – Yala",
+    "category": "other",
+    "expiry_date": "2026-11-30",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/503",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "Up to 35% Savings on Reservations",
+    "description": "Green Casa – Galle",
+    "category": "other",
+    "expiry_date": "2026-11-30",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/507",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "Special Offer for Debit and Credit Card holders",
+    "description": "Royal Retreat Sigiriya",
+    "category": "other",
+    "expiry_date": "2026-09-14",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/10550",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "20% savings on reservations",
+    "description": "Luxor Kirindi Ella Resort & Spa",
+    "category": "other",
+    "expiry_date": "2026-11-01",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/10558",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "20% savings on reservations",
+    "description": "Luxor Kirindi Ella Resort & Spa",
+    "category": "other",
+    "expiry_date": "2026-11-20",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/10558",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "35% Savings on DBL/FB basis & 30% Savings on TPL/FB basis reservations",
+    "description": "Oak Ray Summer Hill Breeze - Nuwara Eliya",
+    "category": "other",
+    "expiry_date": "2026-10-31",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/64",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "0% Instalment plans Upto 36 months ( Call & Convert)",
+    "description": "Classic Travels",
+    "category": "other",
+    "expiry_date": "2026-09-30",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/242",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "Up to 35% Savings on Reservations",
+    "description": "The Coast – Bentota",
+    "category": "other",
+    "expiry_date": "2026-11-30",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/498",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "35% Savings on DBL/FB basis & 30% Savings on TPL/FB basis reservations",
+    "description": "Fresco Water Villa - Sigiriya",
+    "category": "other",
+    "expiry_date": "2026-10-31",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/62",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "35% Savings on DBL/FB basis & 30% Savings on TPL/FB basis reservations",
+    "description": "Oak Ray Wild - Yala",
+    "category": "other",
+    "expiry_date": "2026-10-31",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/65",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "35% Savings on DBL/FB basis & 30% Savings on TPL/FB basis reservations",
+    "description": "Oak Ray Elephant Lake - Sigiriya",
+    "category": "other",
+    "expiry_date": "2026-10-31",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/66",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "35% Savings on DBL/FB basis & 30% Savings on TPL/FB basis reservations",
+    "description": "Oak Ray Tea Bush - Ramboda",
+    "category": "other",
+    "expiry_date": "2026-10-31",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/67",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "Up to 36 months 0% installment plans (Call & Convert)",
+    "description": "Lanka Tiles PLC",
+    "category": "other",
+    "expiry_date": "2026-09-30",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/90",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "Up to 35% Savings on Reservations",
+    "description": "Villa De Jo Jo – Galle",
+    "category": "other",
+    "expiry_date": "2026-11-30",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/497",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "Up to 35% Savings on Reservations",
+    "description": "Bilin Tree House – Galle",
+    "category": "other",
+    "expiry_date": "2026-11-30",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/508",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "Up to 36 months 0% installment plans",
+    "description": "DINIDU",
+    "category": "other",
+    "expiry_date": "2026-09-30",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/10552",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "20% Savings on BB , HB & FB Reservations",
+    "description": "APA Villa - Thalpe",
+    "category": "other",
+    "expiry_date": "2026-12-31",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/68",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "20% Savings on BB , HB & FB Reservations",
+    "description": "ERA Beach - Thalpe",
+    "category": "other",
+    "expiry_date": "2026-12-31",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/69",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "Up to 36 months 0% Installment Plans",
+    "description": "Vogue Jewellers",
+    "category": "other",
+    "expiry_date": "2026-09-30",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/267",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "35% Savings on Reservations",
+    "description": "Sudu Araliya - Polonnaruwa",
+    "category": "other",
+    "expiry_date": "2026-09-01",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/401",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "35% Savings on Reservations",
+    "description": "Sudu Araliya - Polonnaruwa",
+    "category": "other",
+    "expiry_date": "2026-09-30",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/401",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "Up to 35% Savings on Reservations",
+    "description": "Passion Hills – Udawalawe",
+    "category": "other",
+    "expiry_date": "2026-11-30",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/496",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "Up to 35% Savings on Reservations",
+    "description": "Grand Samudra – Tangalle",
+    "category": "other",
+    "expiry_date": "2026-11-30",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/505",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "Up to 35% Savings on Reservations",
+    "description": "Chimneys – Nuwara Eliya",
+    "category": "other",
+    "expiry_date": "2026-11-30",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/506",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "35% Savings on DBL/FB basis & 30% Savings on TPL/FB basis reservations",
+    "description": "Oak Ray Serene Garden - Kandy",
+    "category": "other",
+    "expiry_date": "2026-10-31",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/70",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "35% Savings on DBL/FB basis & 30% Savings on TPL/FB basis reservations",
+    "description": "Rain Tree by Oak Ray - Thissamaramaya",
+    "category": "other",
+    "expiry_date": "2026-10-31",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/71",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "Up to 20% Savings with upto 36 months 0% instalment plans (Call & Convert)",
+    "description": "SLEEP MAKERS  (PVT) LTD",
+    "category": "other",
+    "expiry_date": "2026-09-30",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/91",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "30% Savings on Credit and Debit cards",
+    "description": "Tonypelle",
+    "category": "other",
+    "expiry_date": "2026-09-24",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/141",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "30% Savings on Credit and Debit cards",
+    "description": "Tonypelle",
+    "category": "other",
+    "expiry_date": "2026-09-30",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/141",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "30% off from Labour Charge for 22K Yellow Gold Jewelleries",
+    "description": "Swarnamahal Jewellers",
+    "category": "other",
+    "expiry_date": "2026-09-30",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/266",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "40% Savings on Reservations",
+    "description": "Amaara Sky Hotel",
+    "category": "other",
+    "expiry_date": "2026-10-31",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/340",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "Upto 36 months 0% Instalment plans  (Call & Convert)",
+    "description": "iCanFly",
+    "category": "other",
+    "expiry_date": "2026-09-30",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/358",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "Upto 36 months 0% Instalment plans",
+    "description": "China duty free",
+    "category": "other",
+    "expiry_date": "2026-09-30",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/361",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "20% Savings on Reservations",
+    "description": "Joes Resorts - Bentota",
+    "category": "other",
+    "expiry_date": "2026-12-31",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/414",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "35% Savings on DBL/FB basis & 30% Savings on TPL/FB basis reservations",
+    "description": "Oak Ray Heritage - Kandy",
+    "category": "other",
+    "expiry_date": "2026-10-31",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/472",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "Up to 35% Savings on Reservations",
+    "description": "Villa 46 – Hikkaduwa",
+    "category": "other",
+    "expiry_date": "2026-11-30",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/495",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "15% discount for bills over Rs 10,000",
+    "description": "Siddhalepa Clinic",
+    "category": "other",
+    "expiry_date": "2026-12-31",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/441",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "Up to 35% Savings on Reservations",
+    "description": "Kixi Beach Villa – Talpe",
+    "category": "other",
+    "expiry_date": "2026-11-30",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/504",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "0% Instalment plans Upto 36 months",
+    "description": "Crazy Jets",
+    "category": "other",
+    "expiry_date": "2026-09-30",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/251",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "25% Savings on Reservations",
+    "description": "Araliya Red - Nuwara Eliya",
+    "category": "other",
+    "expiry_date": "2026-10-31",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/402",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "40% Savings on Reservations",
+    "description": "Aarawild Kandalama",
+    "category": "other",
+    "expiry_date": "2026-10-31",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/10553",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "20% savings on credit cards & 15% savings on debit cards",
+    "description": "Lockheed",
+    "category": "other",
+    "expiry_date": "2026-09-24",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/10560",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "20% savings on credit cards & 15% savings on debit cards",
+    "description": "Lockheed",
+    "category": "other",
+    "expiry_date": "2026-09-11",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/10560",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "25% Savings on Reservations",
+    "description": "Araliya Green Hills – Nuwara Eliya",
+    "category": "other",
+    "expiry_date": "2026-10-31",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/337",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  },
+  {
+    "bank": "NDB Bank",
+    "card": null,
+    "title": "Up to 12 months 0% Installment Plans",
+    "description": "CIB Curtains",
+    "category": "other",
+    "expiry_date": "2026-10-31",
+    "source_url": "https://www.ndbbank.com/cards/card-offers/offer-details/213",
+    "scraped_at": "2026-09-09T15:14:50.277697+00:00"
+  }
+]
